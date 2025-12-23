@@ -3,8 +3,6 @@
 
 inventory_pouches.dye_color_pairs = {}
 
-inventory_pouches.dye_color_pairs = {}
-
 if minetest.get_modpath("mcl_dye") and minetest.get_modpath("mcl_colors") then
     inventory_pouches.dye_color_pairs = {
         {"mcl_dye:black",        mcl_colors.BLACK},
